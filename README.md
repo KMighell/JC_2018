@@ -3,3 +3,4 @@ This repository stores all code for the analyses conducted for the Jatropha curc
 
 Folder Alphafiles contains all of the files that the alpha diversity R script requires
 
+Folder Vegan contains all of the files for the Vegan analysis
